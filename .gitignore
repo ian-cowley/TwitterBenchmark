@@ -1,0 +1,21 @@
+# Build results
+[Bb]in/
+[Oo]bj/
+publish/
+
+# Local databases
+*.db
+*.db-wal
+*.db-shm
+
+# IDE & OS files
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+.DS_Store
+Thumbs.db
+
+# Drafts & Private notes
+EMAIL_TO_ARJAY.md
